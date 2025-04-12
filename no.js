@@ -1,6 +1,5 @@
 function number(){
-if(1+1 == 2){
-alert("hello test");
+  return atob('YWxlcnQoJ0hlbGxvIFRlc3QnKQ==');
 }
-}
+
 eval(number());
